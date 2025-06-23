@@ -1,6 +1,3 @@
-Here's a **very basic and simple README (in plain text)** appropriate for your current project:
-
----
 
 **Module 2 Assignment – Coursera**
 
@@ -16,7 +13,3 @@ The layout changes based on screen size (desktop, tablet, mobile) using media qu
 No frameworks were used. Only plain HTML and CSS.
 
 To view the page, just open `index.html` in a browser.
-
----
-
-Let me know if you want it saved in a `README.txt` file inside your folder.
